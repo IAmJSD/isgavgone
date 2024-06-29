@@ -140,7 +140,7 @@ export default class App extends React.Component {
       <hr />
       <aside style={{textAlign: 'center'}}>
         <p>
-          <a href="https://jakegealer.me">Personal Website</a> | <a href="https://github.com/JakeMakesStuff/isgavgone">GitHub Repository</a>
+          <a href="https://astrid.place">Personal Website</a> | <a href="https://github.com/IAmJSD/isgavgone">GitHub Repository</a>
         </p>
       </aside>
     </div>;

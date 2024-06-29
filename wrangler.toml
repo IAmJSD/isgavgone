@@ -4,6 +4,7 @@ type = "webpack"
 route = "*isgavgone.com/*"
 workers_dev = false
 zone_id = "bd606e8487c052cb57160353fabf3bef"
+compatibility_date = "2024-06-29"
 
 [site]
 bucket = "./build"
